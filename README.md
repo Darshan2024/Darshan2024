@@ -57,16 +57,6 @@ I'm a passionate computer science graduate student at **Indiana University Bloom
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanugale&show_icons=true&theme=default&hide_title=true" alt="Darshan's GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darshanugale&theme=default" alt="GitHub Streak">
-</p>
-
----
-
 ### 🌱 Currently Learning
 
 - Distributed Systems  
