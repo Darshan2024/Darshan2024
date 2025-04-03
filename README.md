@@ -61,7 +61,8 @@ I'm a passionate computer science graduate student at **Indiana University Bloom
 
 - Distributed Systems  
 - Cloud-Native App Development  
-- Advanced Machine Learning  
+- Advanced Machine Learning & Generative AI
+- AI-Powered App Integration (LLMs, Prompt Engineering, APIs) 
 
 ---
 
